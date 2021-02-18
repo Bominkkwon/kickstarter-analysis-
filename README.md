@@ -18,6 +18,6 @@ The purpose of this project is to analyze how different campaigns fared in relat
 Microsoft Excel for Microsoft 365 MSO
 
 ## Analysis and challenges
-#![](resources/Theater_Outcomes_vs_Launch.png)
+#
 
 
