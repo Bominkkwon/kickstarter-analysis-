@@ -29,6 +29,7 @@ From this chart, one can analyze the relationships and correlations between the 
 
 ### Theater Outcomes by Launch Date ###
  ![](resources/Theater_Outcomes_vs_Launch.png)
+ 
  Through out the year, the number of “canceled” outcomes does not reach over 10, whereas the numbers of “successful” and “failed” outcomes do not fall below 30; it shows that the chance of getting it cancelled is exceptionally low. The trend that one could identify is that if the number of “successful” outcomes increases, then the number of “failed” outcomes increases simultaneously. i.e., there are four times which the number of “successful” outcomes increases during this year (January - February, March -April, April-May, September – October) and during those four periods, the number of “failed” outcomes increases accordingly. 
  One can also conclude that when there is a dramatic change in the number of “successful” outcomes, it does not necessarily cause any major changes to the number of “failed” outcomes. From mid-May to September, the number of “successful” outcomes decreases drastically; it deceases from 110 to 60, which is about 45% and it had an insignificant impact on the number of the “failed” outcomes. One would likely to think that decrease in the number of “successful” outcomes would have a significant impact on the number of “failed” outcomes and would think the number of “failed” would increase. However, the data rejects that hypothesis.  
 
