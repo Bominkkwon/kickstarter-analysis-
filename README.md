@@ -25,7 +25,7 @@ On this sheet which is created with eight columns and twelve rows—students wer
 From this chart, one can analyze the relationships and correlations between the number of “successful”, “live”, “failed”, “canceled” outcomes and the “Category.” It is fair to conclude that among the “Category,” “Theatre” has the largest number of the “successful” outcomes in this given data. 
 
 <details>
-           <summary>### Challenges & Difficulties ###</summary>
+           <summary>**Challenges & Difficulties**</summary>
            <p>The only “challenge” that I encountered was that the instructions in modules only show one way of doing a certain task, to get the results (as in having correct numbers in cells). I have used different formulas and got the same results, but I had to go back and change since it had a different formula on modules, as if that were the only way to calculate that given dataset. However, overall, it was a good practice to see how others would get the set up a formula or use different functions in Excel to solve problems. </p>
          </details>
 
