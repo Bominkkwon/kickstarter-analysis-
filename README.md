@@ -34,6 +34,10 @@ From this chart, one can analyze the relationships and correlations between the 
  
  One can also conclude that when there is a dramatic change in the number of “successful” outcomes, it does not necessarily cause any major changes to the number of “failed” outcomes. From mid-May to September, the number of “successful” outcomes decreases drastically; it deceases from 110 to 60, which is about 45% and it had an insignificant impact on the number of the “failed” outcomes. One would likely to think that decrease in the number of “successful” outcomes would have a significant impact on the number of “failed” outcomes and would think the number of “failed” would increase. However, the data rejects that hypothesis.  
 
+### Outcomes based on Goals ###
+![](resources/Outcomes_vs_Goals.png)
+
+ From this chart, one can conclude that when the goal is high (>=44000), the campaigns have a higher chance of failing and an extremely low chance of succeeding. When the goal is low (<=15000), the campaigns have a higher chance of succeeding and the likelihood of their projects failing is low. 
 
 
 
