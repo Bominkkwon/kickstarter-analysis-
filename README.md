@@ -40,4 +40,12 @@ From this chart, one can analyze the relationships and correlations between the 
  From this chart, one can conclude that when the goal is high (>=44000), the campaigns have a higher chance of failing and an extremely low chance of succeeding. When the goal is low (<=15000), the campaigns have a higher chance of succeeding and the likelihood of their projects failing is low. 
 
 
+### limitations of the dataset and recommendations ###
+There were some limitations of the dataset—I think I would be able to analyze and make more precise conclusions if the given dataset had included such information as:
+1) which country is under the definition of astronomical seasons or the meteorological seasons. When you are analyzing the dataset by month in different countries, it would be helpful to know;
+2) more defined “category” and “subcategory” such as theatrical genres and styles would also help analyze this dataset thoroughly. 
+
+
+
+
 
